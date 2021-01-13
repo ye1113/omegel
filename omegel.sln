@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "omegel", "omegel\omegel.pyproj", "{1BCE1F0C-4977-471F-A439-32F1414EFA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCE1F0C-4977-471F-A439-32F1414EFA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCE1F0C-4977-471F-A439-32F1414EFA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298D0B71-121F-47BF-82FA-EFF72D3FE663}
+	EndGlobalSection
+EndGlobal
